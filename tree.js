@@ -84,6 +84,7 @@ function TreeOff(){
     clearInterval(startColor);
 }
 
-function Reset(){
-    location.reload();
+//reset page function
+function ResetPage(){
+    location.reload;
 }
