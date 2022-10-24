@@ -83,3 +83,8 @@ function TreeOn(){
 function TreeOff(){
     clearInterval(startColor);
 }
+
+//reset page function
+function ResetPage(){
+    location.reload;
+}
